@@ -94,10 +94,20 @@ body{
 }
 
 .Div-1{
-    
+    float: left;
+    height: 200px;    
+    width: 250px;
+    justify-content: center;
+    margin-right: 10px;
 }
 
-
+.Div-2{
+    float: right;
+    height: 200px;    
+    width: 250px;
+    justify-content: center;
+    margin-right: 10px;
+}
 
 
 
