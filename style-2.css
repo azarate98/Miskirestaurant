@@ -108,6 +108,20 @@ body{
     justify-content: center;
     margin-right: 10px;
 }
+.our-story2{
+    width: 300%px;
+    display: flex;
+    align-items: centers;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    justify-content: center;
+}
+
+.imagen-right{
+   width: 200px;
+   margin-right: 20px;
+}
 
 
 
