@@ -82,7 +82,7 @@ body{
 .nav-text{
     text-align: center;
     margin-left: 575px;
-    margin-top: 100px;
+    margin-top: 155px;
     position: absolute;
     font-size: 40px;
 }
@@ -123,11 +123,41 @@ body{
    margin-right: 20px;
 }
 
+.img3{
+    float: left;
+    height: 200px;    
+    width: 250px;
+    justify-content: center;
+    margin-right: 10px;
+}
 
+.p3{
+    text-align: center;
+    width: 700px;
+    margin: 50px 380px;
+}
 
+/* menu */
 
-
-
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    margin-top: 20px;
+    margin-left: 700px;
+  }
+  
+  .lomo {
+    max-width: 300px;
+  }
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+/* end of menu */
 
 /* end of about page */
 
